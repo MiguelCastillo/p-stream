@@ -1,7 +1,7 @@
 {
   "name": "p-stream",
   "version": "1.0.1",
-  "description": "Readable stream to Pormise",
+  "description": "Readable stream to Promise",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
