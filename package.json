@@ -1,0 +1,22 @@
+{
+  "name": "p-stream",
+  "version": "1.0.0",
+  "description": "Readable stream to Pormise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiguelCastillo/p-stream.git"
+  },
+  "keywords": [
+    "streams", "promise", "stream to promise"
+  ],
+  "author": "Miguel Castillo <manchagnu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelCastillo/p-stream/issues"
+  },
+  "homepage": "https://github.com/MiguelCastillo/p-stream"
+}
