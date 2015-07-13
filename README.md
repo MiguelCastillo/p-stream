@@ -1,6 +1,6 @@
 # p-stream
 
-> Readable stream to Pormise
+> Readable stream to Promise
 
 Create Promises that resolve when a `readable` stream is finished streaming data. Or rejected when the stream reports an error.
 
