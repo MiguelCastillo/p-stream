@@ -31,7 +31,7 @@ function readableStream(stream) {
         resolve(Buffer.concat(chunks.data));
       }
       else {
-        resolve(chunks.data.join());
+        resolve(chunks.data.join(""));
       }
     }
 
