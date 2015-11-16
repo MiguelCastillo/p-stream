@@ -1,6 +1,6 @@
 {
   "name": "p-stream",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Readable stream to Promise",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "https://github.com/MiguelCastillo/p-stream.git"
   },
   "keywords": [
-    "streams", "promise", "stream to promise"
+    "streams",
+    "promise",
+    "stream to promise"
   ],
   "author": "Miguel Castillo <manchagnu@gmail.com>",
   "license": "MIT",
